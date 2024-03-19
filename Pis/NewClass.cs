@@ -9,5 +9,6 @@ namespace PIS.Pis
     internal class NewClass
     {
         int a = 10;
+        int b = 5;
     }
 }
